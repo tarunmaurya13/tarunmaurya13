@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tarun Maurya</h1>
-<h3 align="center">Data Science & AI Enthusiast | Final-Year BCA (AI) Student</h3>
+<h3 align="center">AI & Data Professional | Data Science • Analytics • QA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;Fraud+Detection+%2B+AI+Analyst+Copilots;SHAP+%7C+XGBoost+%7C+LLMs+%7C+FastAPI;Turning+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Fraud+Detection+%2B+AI+Analyst+Copilots;SHAP+%7C+XGBoost+%7C+LLMs+%7C+FastAPI;Data+Analysis+%7C+QA+%7C+Business+Insight" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **BCA (Artificial Intelligence)** student at Invertis University, graduating 2026
+- 🎓 **BCA (Artificial Intelligence)** student at Invertis University, graduating 2026
 - 🔬 Published research on **breast cancer detection using a CNN-Mamba hybrid deep learning model**
 - 🧪 Data Science Intern at **GeeksforGeeks**
 - 🏆 Participated in **Smart India Hackathon** and other hackathons
-- 🎯 Currently building production-style ML systems — fraud detection with LLM-powered analyst copilots, and healthcare AI companion apps
+- 🎯 Actively building production-style ML systems — fraud detection with LLM-powered analyst copilots, and healthcare AI companion apps — alongside strong fundamentals in SQL, data analysis, dashboarding, and QA processes (Jira, bug lifecycle, verification vs. validation)
+- 💼 Open to **Data Scientist, Data Analyst, Business Analyst, and QA Analyst** roles
 - 📍 Based in Delhi/Noida, India
 
 ---
@@ -34,7 +35,13 @@
 
 **Visualization & BI**
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+
+**QA & Analyst Toolkit**
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Generative AI**
 ![Claude](https://img.shields.io/badge/-Claude%20API-D97757?style=flat-square)
@@ -112,4 +119,10 @@ Multi-phase fraud detection project built incrementally across Google Sheets, SQ
 
 ---
 
-<p align="center"><i>Open to Data Scientist, QA Analyst, and BFSI analytics roles — always happy to talk shop about fraud detection, LLM-augmented tooling, or ML pipelines.</i></p>
+<p align="center"><i>Open to Data Scientist, Data Analyst, Business Analyst, and QA Analyst roles — always happy to talk shop about fraud detection, LLM-augmented tooling, ML pipelines, or data-driven decision making.</i></p>
+
+<h3 align="center">🚀 Always exploring the next breakthrough in AI</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2E9EF7&center=true&vCenter=true&width=550&lines=From+SHAP+explanations+to+LLM+copilots;Learning+in+public%2C+one+project+at+a+time;Fraud+detection+today%2C+what's+next+tomorrow%3F" alt="Footer Typing SVG" />
+</p>
