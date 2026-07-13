@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Maurya</h1>
-<h3 align="center">Data Science & AI Enthusiast |  BCA (AI) Student</h3>
+<h3 align="center">Data Science & AI Enthusiast | Final-Year BCA (AI) Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;Fraud+Detection+%2B+AI+Analyst+Copilots;SHAP+%7C+XGBoost+%7C+LLMs+%7C+FastAPI;Turning+data+into+decisions" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓  **BCA (Artificial Intelligence)** student at Invertis University, graduating 2026
+- 🎓 Final-year **BCA (Artificial Intelligence)** student at Invertis University, graduating 2026
 - 🔬 Published research on **breast cancer detection using a CNN-Mamba hybrid deep learning model**
 - 🧪 Data Science Intern at **GeeksforGeeks**
 - 🏆 Participated in **Smart India Hackathon** and other hackathons
@@ -60,8 +60,7 @@ End-to-end fraud detection system on the NeurIPS 2022 Bank Account Fraud dataset
 
 **Stack:** XGBoost · SHAP · FastAPI · Gemini API · Render
 
-**Links:** 🌐 [Live API Docs]([https://your-actual-render-url.onrender.com/docs]  (https://ai-care-copilot-backend-1.onrender.com/docs)) · 💻 [Source Code](https://github.com/tarunmaurya13/fraud-detection-copilot)
-
+**Links:** 🌐 [Live API Docs](https://fraud-detection-copilot-by-llm.onrender.com/docs) · 💻 [Source Code](https://github.com/tarunmaurya13/fraud-detection-copilot)
 
 ---
 
@@ -72,6 +71,8 @@ Healthcare companion app backend built with a team, combining structured health 
 - Deployed on Render; IoT (Raspberry Pi) integration planned as a future extension
 
 **Stack:** FastAPI · PostgreSQL · Gemini Vision · Flutter (team)
+
+**Links:** 🌐 [Live API Docs](https://ai-care-copilot-backend-1.onrender.com/docs)
 
 ---
 
