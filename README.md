@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tarun Maurya</h1>
-<h3 align="center">AI & Data Professional | Data Science • Analytics • QA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Fraud+Detection+%2B+AI+Analyst+Copilots;SHAP+%7C+XGBoost+%7C+LLMs+%7C+FastAPI;Data+Analysis+%7C+QA+%7C+Business+Insight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=2E9EF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+%26+Data+Professional;Data+Science+%E2%80%A2+Analytics+%E2%80%A2+QA" alt="Role Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8E75B2&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions;Fraud+Detection+%2B+AI+Analyst+Copilots;SHAP+%7C+XGBoost+%7C+LLMs+%7C+FastAPI;Data+Analysis+%7C+QA+%7C+Business+Insight" alt="Typing SVG" />
 </p>
 
 ---
