@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Tarun Maurya</h1>
-<h3 align="left">Data Science & AI Enthusiast |  BCA (AI) Student</h3>
+<h1 align="center">Hi 👋, I'm Tarun Maurya</h1>
+<h3 align="center">Data Science & AI Enthusiast |  BCA (AI) Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+ML+systems+that+solve+real+problems;Fraud+Detection+%2B+AI+Analyst+Copilots;SHAP+%7C+XGBoost+%7C+LLMs+%7C+FastAPI;Turning+data+into+decisions" alt="Typing SVG" />
