@@ -60,6 +60,9 @@ End-to-end fraud detection system on the NeurIPS 2022 Bank Account Fraud dataset
 
 **Stack:** XGBoost · SHAP · FastAPI · Gemini API · Render
 
+**Links:** 🌐 [Live API Docs]([https://your-actual-render-url.onrender.com/docs]  (https://ai-care-copilot-backend-1.onrender.com/docs)) · 💻 [Source Code](https://github.com/tarunmaurya13/fraud-detection-copilot)
+
+
 ---
 
 #### 🏥 NURA — AI Care Copilot
